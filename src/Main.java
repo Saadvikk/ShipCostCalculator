@@ -22,5 +22,6 @@ public class Main
         System.out.println("The shipping cost is " + shipping + " and the total price is " + finalCost);
 
         scanner.close();
+
     }
 }
